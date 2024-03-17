@@ -1,0 +1,29 @@
+
+body{
+
+
+background-color:turquoise;
+
+}
+
+.link {
+
+text-decoration:none;
+color:orange;
+font-size:30px;
+
+}
+
+.downloadtxt {
+
+color:golden;
+background-color:golden;
+
+}
+
+.titulo1 {
+text-align:center;
+color:blue;
+background-color:red;
+font-size:30px;
+}
